@@ -14,5 +14,9 @@
   "item.oskars-mod.chisel":"Chisel",
   "item.oskars-mod.cauliflower":"Cauliflower",
   "item.oskars-mod.starlight_ashes":"Starlight Ashes",
-  "block.oskars-mod.magic_block" : "Magic Block"
+  "block.oskars-mod.magic_block" : "Magic Block",
+  "tooltip.oskars-mod.magic_block.tooltip": "This Block is very, very §kA§r §5MAGICAL§r §kA§r",
+  "tooltip.oskars-mod.chisel" : "Press §eShift§r for more information",
+  "tooltip.oskars-mod.chisel.shift_down" : "This item chisels blocks into bricks",
+  "tooltip.oskars-mod.cauliflower.tooltip" : "Healthy food"
 }
