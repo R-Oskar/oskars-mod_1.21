@@ -3,6 +3,7 @@ package net.oskar.oskarsmod;
 import net.fabricmc.api.ModInitializer;
 
 import net.oskar.oskarsmod.block.ModBlocks;
+import net.oskar.oskarsmod.item.ModItemGroups;
 import net.oskar.oskarsmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +15,8 @@ public class OskarsMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+        ModItemGroups.registerItemGroups();
+
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
 	}

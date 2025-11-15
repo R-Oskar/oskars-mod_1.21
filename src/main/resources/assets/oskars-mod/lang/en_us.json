@@ -2,5 +2,7 @@
   "item.oskars-mod.pink_garnet": "Pink Garnet",
   "item.oskars-mod.raw_pink_garnet": "Raw Pink Garnet",
   "block.oskars-mod.pink_garnet_block" : "Pink Garnet Block",
-  "block.oskars-mod.raw_pink_garnet_block" : "Raw Pink Garnet Block"
+  "block.oskars-mod.raw_pink_garnet_block" : "Raw Pink Garnet Block",
+  "itemgroup.oskars-mod.pink_garnet_items" : "Pink Garnet Items",
+  "itemgroup.oskars-mod.pink_garnet_blocks" : "Pink Garnet Blocks"
 }
