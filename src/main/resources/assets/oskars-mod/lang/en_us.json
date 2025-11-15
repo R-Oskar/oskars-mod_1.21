@@ -11,5 +11,6 @@
   "itemgroup.oskars-mod.pink_garnet_items" : "Pink Garnet Items",
   "itemgroup.oskars-mod.pink_garnet_blocks" : "Pink Garnet Blocks",
 
-  "item.oskars-mod.chisel":"Chisel"
+  "item.oskars-mod.chisel":"Chisel",
+  "block.oskars-mod.magic_block" : "Magic Block"
 }
