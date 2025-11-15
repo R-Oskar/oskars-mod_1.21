@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "oskars-mod:pink_garnet_block",
+    "oskars-mod:raw_pink_garnet_block",
+    "oskars-mod:pink_garnet_ore",
+    "oskars-mod:pink_garnet_deepslate_ore"
+  ]
+}

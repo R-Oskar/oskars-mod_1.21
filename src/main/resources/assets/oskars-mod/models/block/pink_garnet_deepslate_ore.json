@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "oskars-mod:block/pink_garnet_deepslate_ore"
+  }
+}
