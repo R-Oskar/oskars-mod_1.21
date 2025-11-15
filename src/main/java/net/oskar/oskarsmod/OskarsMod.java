@@ -2,6 +2,7 @@ package net.oskar.oskarsmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.oskar.oskarsmod.block.ModBlocks;
 import net.oskar.oskarsmod.item.ModItemGroups;
 import net.oskar.oskarsmod.item.ModItems;
@@ -16,6 +17,8 @@ public class OskarsMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
         ModItemGroups.registerItemGroups();
+
+        FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 1600);
 
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
